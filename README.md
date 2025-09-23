@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/RANJAN1602/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/RANJAN1602/DSA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RANJAN1602/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Math
@@ -14,6 +15,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/RANJAN1602/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/RANJAN1602/DSA/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
