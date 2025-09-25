@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RANJAN1602/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0051-n-queens](https://github.com/RANJAN1602/DSA/tree/master/0051-n-queens) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RANJAN1602/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/RANJAN1602/DSA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RANJAN1602/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -67,4 +68,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RANJAN1602/DSA/tree/master/0020-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/RANJAN1602/DSA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
