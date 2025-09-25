@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RANJAN1602/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0051-n-queens](https://github.com/RANJAN1602/DSA/tree/master/0051-n-queens) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RANJAN1602/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/RANJAN1602/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/RANJAN1602/DSA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RANJAN1602/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/RANJAN1602/DSA/tree/master/0217-contains-duplicate) |
@@ -39,11 +40,13 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/RANJAN1602/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RANJAN1602/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/RANJAN1602/DSA/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/RANJAN1602/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RANJAN1602/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/RANJAN1602/DSA/tree/master/0217-contains-duplicate) |
 ## Heap (Priority Queue)
@@ -57,6 +60,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/RANJAN1602/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RANJAN1602/DSA/tree/master/0217-contains-duplicate) |
 ## String
 |  |
@@ -75,4 +79,8 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/RANJAN1602/DSA/tree/master/0051-n-queens) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/RANJAN1602/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
