@@ -16,6 +16,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/RANJAN1602/DSA/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/RANJAN1602/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/RANJAN1602/DSA/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/RANJAN1602/DSA/tree/master/1013-fibonacci-number) |
@@ -63,12 +64,14 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/RANJAN1602/DSA/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/RANJAN1602/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RANJAN1602/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/RANJAN1602/DSA/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/RANJAN1602/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/RANJAN1602/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RANJAN1602/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String Matching
