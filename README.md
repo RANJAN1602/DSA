@@ -13,6 +13,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/RANJAN1602/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/RANJAN1602/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/RANJAN1602/DSA/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/RANJAN1602/DSA/tree/master/0485-max-consecutive-ones) |
 ## Math
 |  |
 | ------- |
