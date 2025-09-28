@@ -18,6 +18,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/RANJAN1602/DSA/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/RANJAN1602/DSA/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/RANJAN1602/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/RANJAN1602/DSA/tree/master/0268-missing-number) |
