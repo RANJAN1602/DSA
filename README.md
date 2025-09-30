@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/RANJAN1602/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RANJAN1602/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0051-n-queens](https://github.com/RANJAN1602/DSA/tree/master/0051-n-queens) |
+| [0066-plus-one](https://github.com/RANJAN1602/DSA/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RANJAN1602/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/RANJAN1602/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/RANJAN1602/DSA/tree/master/0189-rotate-array) |
@@ -20,6 +21,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/RANJAN1602/DSA/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/RANJAN1602/DSA/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/RANJAN1602/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/RANJAN1602/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/RANJAN1602/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/RANJAN1602/DSA/tree/master/0268-missing-number) |
