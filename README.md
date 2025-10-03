@@ -27,6 +27,7 @@
 | [0189-rotate-array](https://github.com/RANJAN1602/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/RANJAN1602/DSA/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/RANJAN1602/DSA/tree/master/1013-fibonacci-number) |
+| [3336-water-bottles-ii](https://github.com/RANJAN1602/DSA/tree/master/3336-water-bottles-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -114,4 +115,8 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/RANJAN1602/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Simulation
+|  |
+| ------- |
+| [3336-water-bottles-ii](https://github.com/RANJAN1602/DSA/tree/master/3336-water-bottles-ii) |
 <!---LeetCode Topics End-->
