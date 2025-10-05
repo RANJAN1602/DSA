@@ -23,6 +23,7 @@
 | [0007-reverse-integer](https://github.com/RANJAN1602/DSA/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/RANJAN1602/DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/RANJAN1602/DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/RANJAN1602/DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/RANJAN1602/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/RANJAN1602/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/RANJAN1602/DSA/tree/master/0268-missing-number) |
@@ -88,6 +89,7 @@
 | [0013-roman-to-integer](https://github.com/RANJAN1602/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/RANJAN1602/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RANJAN1602/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/RANJAN1602/DSA/tree/master/0067-add-binary) |
 ## String Matching
 |  |
 | ------- |
@@ -111,6 +113,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/RANJAN1602/DSA/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/RANJAN1602/DSA/tree/master/0268-missing-number) |
 ## Linked List
 |  |
@@ -119,6 +122,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/RANJAN1602/DSA/tree/master/0067-add-binary) |
 | [1642-water-bottles](https://github.com/RANJAN1602/DSA/tree/master/1642-water-bottles) |
 | [3336-water-bottles-ii](https://github.com/RANJAN1602/DSA/tree/master/3336-water-bottles-ii) |
 <!---LeetCode Topics End-->
