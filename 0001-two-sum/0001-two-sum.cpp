@@ -1,34 +1,32 @@
 #include <vector>
-#include <unordered_map>
+#include <map>
 
 class Solution {
 public:
     std::vector<int> twoSum(std::vector<int>& nums, int target) {
-        // Create a hash map to store numbers we've seen and their indices.
-        // Key: number, Value: index
-        std::unordered_map<int, int> num_map;
+        // Use a map to store the number and its index
+        std::map<int, int> mpp;
+        int n = nums.size();
 
-        // Iterate through the vector once.
-        for (int i = 0; i < nums.size(); ++i) {
-            // Calculate the complement needed for the current number.
-            int complement = target - nums[i];
+        // Loop through each number in the vector
+        for (int i = 0; i < n; i++) {
+            int num = nums[i];
+            int required_num = target - num;
 
-            // Check if the complement exists in our map.
-            // .count() is a fast way to check for key existence.
-            if (num_map.count(complement)) {
-                // If it exists, we found our pair.
-                // Return the complement's index and the current index.
-                return {num_map[complement], i};
+            // Check if the required number to complete the pair exists in the map
+            if (mpp.find(required_num) != mpp.end()) {
+                // If it exists, we found the pair.
+                // Return the index of the required number and the current index.
+                return {mpp[required_num], i};
             }
 
-            // If complement is not found, add the current number and its index to the map
-            // for future lookups.
-            num_map[nums[i]] = i;
+            // If the pair is not found, add the current number and its index to the map
+            // for future checks.
+            mpp[num] = i;
         }
 
-        // The problem statement guarantees a solution exists, so this part is
-        // technically not reached. It's good practice for function completeness.
-        return {};
+        // This line is only reached if no solution is found.
+        // The problem statement guarantees a solution exists.
+        return {}; 
     }
 };
-        
