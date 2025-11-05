@@ -40,6 +40,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RANJAN1602/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/RANJAN1602/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/RANJAN1602/DSA/tree/master/0189-rotate-array) |
+| [0344-reverse-string](https://github.com/RANJAN1602/DSA/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 | [0020-valid-parentheses](https://github.com/RANJAN1602/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RANJAN1602/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/RANJAN1602/DSA/tree/master/0067-add-binary) |
+| [0344-reverse-string](https://github.com/RANJAN1602/DSA/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/RANJAN1602/DSA/tree/master/0742-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/RANJAN1602/DSA/tree/master/1205-defanging-an-ip-address) |
 ## String Matching
