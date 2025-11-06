@@ -98,6 +98,7 @@
 | [0049-group-anagrams](https://github.com/RANJAN1602/DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/RANJAN1602/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/RANJAN1602/DSA/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/RANJAN1602/DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/RANJAN1602/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RANJAN1602/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/RANJAN1602/DSA/tree/master/0268-missing-number) |
@@ -111,6 +112,7 @@
 | [0049-group-anagrams](https://github.com/RANJAN1602/DSA/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/RANJAN1602/DSA/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/RANJAN1602/DSA/tree/master/0079-word-search) |
+| [0205-isomorphic-strings](https://github.com/RANJAN1602/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/RANJAN1602/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/RANJAN1602/DSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/RANJAN1602/DSA/tree/master/0383-ransom-note) |
