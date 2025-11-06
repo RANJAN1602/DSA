@@ -18,6 +18,7 @@
 | [0088-merge-sorted-array](https://github.com/RANJAN1602/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RANJAN1602/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/RANJAN1602/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/RANJAN1602/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/RANJAN1602/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/RANJAN1602/DSA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RANJAN1602/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -146,6 +147,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/RANJAN1602/DSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/RANJAN1602/DSA/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/RANJAN1602/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/RANJAN1602/DSA/tree/master/0268-missing-number) |
 ## Linked List
 |  |
