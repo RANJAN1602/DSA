@@ -13,6 +13,7 @@
 | [0051-n-queens](https://github.com/RANJAN1602/DSA/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/RANJAN1602/DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/RANJAN1602/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/RANJAN1602/DSA/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/RANJAN1602/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RANJAN1602/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/RANJAN1602/DSA/tree/master/0169-majority-element) |
@@ -100,6 +101,7 @@
 | [0020-valid-parentheses](https://github.com/RANJAN1602/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RANJAN1602/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/RANJAN1602/DSA/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/RANJAN1602/DSA/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/RANJAN1602/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/RANJAN1602/DSA/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/RANJAN1602/DSA/tree/master/0742-to-lower-case) |
@@ -119,6 +121,7 @@
 | [0046-permutations](https://github.com/RANJAN1602/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/RANJAN1602/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/RANJAN1602/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/RANJAN1602/DSA/tree/master/0079-word-search) |
 ## Counting
 |  |
 | ------- |
@@ -144,4 +147,12 @@
 | [0067-add-binary](https://github.com/RANJAN1602/DSA/tree/master/0067-add-binary) |
 | [1642-water-bottles](https://github.com/RANJAN1602/DSA/tree/master/1642-water-bottles) |
 | [3336-water-bottles-ii](https://github.com/RANJAN1602/DSA/tree/master/3336-water-bottles-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/RANJAN1602/DSA/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/RANJAN1602/DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
