@@ -100,6 +100,7 @@
 | [0217-contains-duplicate](https://github.com/RANJAN1602/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RANJAN1602/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/RANJAN1602/DSA/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/RANJAN1602/DSA/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
@@ -111,6 +112,7 @@
 | [0079-word-search](https://github.com/RANJAN1602/DSA/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/RANJAN1602/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/RANJAN1602/DSA/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/RANJAN1602/DSA/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/RANJAN1602/DSA/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/RANJAN1602/DSA/tree/master/0742-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/RANJAN1602/DSA/tree/master/1205-defanging-an-ip-address) |
@@ -134,6 +136,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RANJAN1602/DSA/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/RANJAN1602/DSA/tree/master/0383-ransom-note) |
 ## Binary Search
 |  |
 | ------- |
