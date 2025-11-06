@@ -32,6 +32,7 @@
 | [0070-climbing-stairs](https://github.com/RANJAN1602/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/RANJAN1602/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/RANJAN1602/DSA/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/RANJAN1602/DSA/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/RANJAN1602/DSA/tree/master/1013-fibonacci-number) |
 | [1642-water-bottles](https://github.com/RANJAN1602/DSA/tree/master/1642-water-bottles) |
 | [3336-water-bottles-ii](https://github.com/RANJAN1602/DSA/tree/master/3336-water-bottles-ii) |
@@ -104,6 +105,7 @@
 | [0079-word-search](https://github.com/RANJAN1602/DSA/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/RANJAN1602/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/RANJAN1602/DSA/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/RANJAN1602/DSA/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/RANJAN1602/DSA/tree/master/0742-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/RANJAN1602/DSA/tree/master/1205-defanging-an-ip-address) |
 ## String Matching
@@ -145,6 +147,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/RANJAN1602/DSA/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/RANJAN1602/DSA/tree/master/0412-fizz-buzz) |
 | [1642-water-bottles](https://github.com/RANJAN1602/DSA/tree/master/1642-water-bottles) |
 | [3336-water-bottles-ii](https://github.com/RANJAN1602/DSA/tree/master/3336-water-bottles-ii) |
 ## Depth-First Search
