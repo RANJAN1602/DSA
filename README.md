@@ -54,6 +54,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/RANJAN1602/DSA/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/RANJAN1602/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RANJAN1602/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0647-palindromic-substrings](https://github.com/RANJAN1602/DSA/tree/master/0647-palindromic-substrings) |
@@ -115,6 +116,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/RANJAN1602/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/RANJAN1602/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/RANJAN1602/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/RANJAN1602/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RANJAN1602/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/RANJAN1602/DSA/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/RANJAN1602/DSA/tree/master/0067-add-binary) |
@@ -138,6 +140,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/RANJAN1602/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/RANJAN1602/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/RANJAN1602/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/RANJAN1602/DSA/tree/master/0051-n-queens) |
