@@ -50,11 +50,13 @@
 | [0088-merge-sorted-array](https://github.com/RANJAN1602/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/RANJAN1602/DSA/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/RANJAN1602/DSA/tree/master/0344-reverse-string) |
+| [0647-palindromic-substrings](https://github.com/RANJAN1602/DSA/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/RANJAN1602/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RANJAN1602/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0647-palindromic-substrings](https://github.com/RANJAN1602/DSA/tree/master/0647-palindromic-substrings) |
 | [1013-fibonacci-number](https://github.com/RANJAN1602/DSA/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -122,6 +124,7 @@
 | [0344-reverse-string](https://github.com/RANJAN1602/DSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/RANJAN1602/DSA/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/RANJAN1602/DSA/tree/master/0412-fizz-buzz) |
+| [0647-palindromic-substrings](https://github.com/RANJAN1602/DSA/tree/master/0647-palindromic-substrings) |
 | [0742-to-lower-case](https://github.com/RANJAN1602/DSA/tree/master/0742-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/RANJAN1602/DSA/tree/master/1205-defanging-an-ip-address) |
 ## String Matching
