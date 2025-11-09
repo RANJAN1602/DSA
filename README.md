@@ -49,6 +49,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RANJAN1602/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RANJAN1602/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/RANJAN1602/DSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/RANJAN1602/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/RANJAN1602/DSA/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/RANJAN1602/DSA/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/RANJAN1602/DSA/tree/master/0647-palindromic-substrings) |
@@ -124,6 +125,7 @@
 | [0049-group-anagrams](https://github.com/RANJAN1602/DSA/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/RANJAN1602/DSA/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/RANJAN1602/DSA/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/RANJAN1602/DSA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/RANJAN1602/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/RANJAN1602/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/RANJAN1602/DSA/tree/master/0344-reverse-string) |
