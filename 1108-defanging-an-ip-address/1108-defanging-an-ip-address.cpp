@@ -2,18 +2,19 @@
 
 class Solution {
 public:
-    std::string defangIPaddr(std::string address) {
-        std::string result = "";
-        // Loop through each character 'c' in the 'address' string
-        for (char c : address) {
-            if (c == '.') {
-                // If the character is a period, append "[.]"
-                result += "[.]";
-            } else {
-                // Otherwise, append the character itself
-                result += c;
-            }
+    string defangIPaddr(string address) {
+       string ans;
+       int index=0;
+       while(index<address.size())
+       {
+        if(address[index]=='.'){
+         ans+="[.]";
         }
-        return result;
+         else{
+         ans+=address[index];
+         }
+         index++;
+       }
+       return ans;
     }
 };
