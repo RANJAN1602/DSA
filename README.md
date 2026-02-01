@@ -135,6 +135,7 @@
 | [0412-fizz-buzz](https://github.com/RANJAN1602/DSA/tree/master/0412-fizz-buzz) |
 | [0647-palindromic-substrings](https://github.com/RANJAN1602/DSA/tree/master/0647-palindromic-substrings) |
 | [0742-to-lower-case](https://github.com/RANJAN1602/DSA/tree/master/0742-to-lower-case) |
+| [1108-defanging-an-ip-address](https://github.com/RANJAN1602/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1205-defanging-an-ip-address](https://github.com/RANJAN1602/DSA/tree/master/1205-defanging-an-ip-address) |
 ## String Matching
 |  |
